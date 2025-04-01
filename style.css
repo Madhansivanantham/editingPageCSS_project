@@ -512,9 +512,9 @@ button{
 }
 
 @media (max-width :500px){
-    .tools{
+    /* .tools{
         display: none;
-    }
+    } */
     /* .frame{
         width: 100%;
     } */
